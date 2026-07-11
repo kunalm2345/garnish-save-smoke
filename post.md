@@ -5,6 +5,8 @@ author: Kunal
 
 # Launch plan
 
-Intro paragraph, expanded upstream while someone else was editing.
+Intro paragraph, EXPANDED UPSTREAM while the editor was open.
 
-Middle and closing, EDITOR REWRITE ROUND TWO.
+Middle paragraph about the rollout. Edited in the editor to collide.
+
+Closing thoughts to wrap up. Sharpened by the live editor. Round two, disjoint from upstream.
