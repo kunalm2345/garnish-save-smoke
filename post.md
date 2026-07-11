@@ -5,7 +5,7 @@ author: Kunal
 
 # Launch plan
 
-Intro paragraph, calm and unedited.
+Intro paragraph, EXPANDED UPSTREAM while the editor was open.
 
 Middle paragraph about the rollout.
 
