@@ -9,4 +9,4 @@ Intro paragraph, calm and unedited.
 
 Middle paragraph about the rollout.
 
-Closing thoughts to wrap up.
+Closing thoughts to wrap up. Sharpened by the live editor.
