@@ -7,6 +7,6 @@ author: Kunal
 
 Intro paragraph, EXPANDED UPSTREAM while the editor was open. Branching off for review.
 
-Middle paragraph about the rollout. Edited in the editor to collide.
+Middle paragraph about the rollout. Edited in the editor to collide. Toast check.
 
 Closing thoughts to wrap up. Sharpened by the live editor. Round two, disjoint from upstream.
