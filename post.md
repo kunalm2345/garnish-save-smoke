@@ -5,6 +5,8 @@ author: Kunal
 
 # Launch plan
 
-Intro paragraph, expanded upstream while someone else was editing. Branch-bound edit.
+Intro paragraph, calm and unedited.
 
-Middle and closing, EDITOR REWRITE ROUND TWO.
+Middle paragraph about the rollout.
+
+Closing thoughts to wrap up.
