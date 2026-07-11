@@ -5,7 +5,7 @@ author: Kunal
 
 # Launch plan
 
-Intro paragraph that sets the scene for the launch.
+Intro paragraph, expanded upstream while someone else was editing.
 
 Middle paragraph with the operational details we argue about.
 
